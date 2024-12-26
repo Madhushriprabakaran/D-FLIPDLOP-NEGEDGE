@@ -73,3 +73,4 @@ RegisterNumber:24005365
 
 **RESULTS**
 D flipflop using verilog is verified.
+
